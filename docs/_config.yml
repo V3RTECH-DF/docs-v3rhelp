@@ -7,6 +7,10 @@ url: https://docs.v3rhelp.v3rtech.com.br
 # Tema (GitHub Pages compila o Jekyll nativamente com remote_theme).
 remote_theme: just-the-docs/just-the-docs
 
+# URLs "bonitas" com barra final (/legal/privacidade/) — casa com os links do
+# rodapé e os links internos do manual.
+permalink: pretty
+
 # Busca no topo do manual.
 search_enabled: true
 search:
