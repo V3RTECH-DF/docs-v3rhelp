@@ -1,0 +1,19 @@
+// Esquema de cores V3RHelp — deriva do design-system do plugin (index.css @theme).
+// Selecionado por `color_scheme: v3rhelp` no _config.yml.
+
+// Cores de marca / texto
+$link-color:                 #2d5016; // brand-secondary — links legíveis
+$btn-primary-color:          #092209; // brand-primary — botões
+$body-heading-color:         #1e293b; // heading
+$body-text-color:            #334155; // body
+$nav-child-link-color:       #334155;
+$body-background-color:      #ffffff;
+$sidebar-color:              #f8fafc; // lateral levemente cinza
+$border-color:               #e2e8f0; // line
+$search-result-preview-color:#64748b; // label
+$code-background-color:      #f1f5f9; // surface-muted
+
+// Tipografia — Exo 2 nos títulos (como o plugin), pilha de sistema no corpo
+$body-font-family:         -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$body-heading-font-family: "Exo 2", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$mono-font-family:         "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace;

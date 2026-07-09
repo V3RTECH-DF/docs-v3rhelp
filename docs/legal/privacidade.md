@@ -95,4 +95,4 @@ Esta política pode ser atualizada. A versão vigente fica em
 
 **Contato:** dpo@v3rtech.com.br · suporte@v3rtech.com.br
 
-_Referente à versão 1.x (julho de 2026)._
+_Versão deste documento: 1.0 (julho de 2026)._

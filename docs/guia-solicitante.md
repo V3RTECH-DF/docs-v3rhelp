@@ -1,7 +1,7 @@
 ---
 title: Guia de Quem Abre Chamados
 nav_order: 4
-description: Como pedir ajuda de forma clara para ser atendido mais rápido — para moradores, clientes, assinantes e autores.
+description: Como pedir ajuda de forma clara para ser atendido mais rápido — para clientes, assinantes, autores e colaboradores.
 ---
 
 # Guia de Quem Abre Chamados
@@ -30,9 +30,9 @@ imagine que precisa explicar para alguém por telefone. Três perguntas guiam um
 {: .exemplo }
 > **Relato fraco:** "Não funciona."
 >
-> **Relato bom:** "Quando tento pagar a mensalidade pelo cartão (menu *Financeiro > Pagar*),
-> aparece a mensagem *'Transação recusada'* e a tela volta ao início. Eu esperava concluir o
-> pagamento. Já tentei duas vezes, com dois cartões diferentes."
+> **Relato bom:** "Quando tento finalizar a compra do meu plano pelo cartão (menu
+> *Assinatura > Pagamento*), aparece a mensagem *'Transação recusada'* e a tela volta ao
+> início. Eu esperava concluir o pagamento. Já tentei duas vezes, com dois cartões diferentes."
 
 ## O que incluir para acelerar o atendimento
 

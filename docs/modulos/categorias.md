@@ -33,7 +33,7 @@ Você encontra essa tela em **V3RHelp! > Categorias**, no menu do painel do Word
 5. Salve.
 
 {: .exemplo }
-> Imagine que sua equipe de suporte atende uma escola. Você pode criar as categorias "Matrícula", "Financeiro" e "Problemas técnicos". Um chamado sobre boleto em atraso vai para "Financeiro"; uma reclamação de sistema fora do ar vai para "Problemas técnicos" — cada um com seu prazo e sua cor na fila.
+> Uma empresa que usa o V3RHelp para o suporte pode criar as categorias "Acessos", "Financeiro" e "Problemas técnicos". Um chamado sobre uma fatura vai para "Financeiro"; um sistema fora do ar vai para "Problemas técnicos" — cada um com seu prazo e sua cor na fila. As categorias são livres: cada organização define as que fazem sentido para o seu segmento.
 
 ## Editando e excluindo
 

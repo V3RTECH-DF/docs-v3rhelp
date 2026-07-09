@@ -1,0 +1,30 @@
+// Ajustes finos da identidade V3RHelp (importado depois do tema).
+
+// Logo horizontal na barra lateral — altura confortável, largura automática.
+.site-logo {
+  height: 2.4rem;
+  background-position: left center;
+}
+
+// Títulos com Exo 2 (reforço, caso a fonte do corpo seja aplicada por engano).
+.site-title,
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4 {
+  font-family: "Exo 2", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+// Item de navegação ativo com um traço na cor da marca.
+.nav-list .nav-list-item .nav-list-link.active {
+  color: #092209;
+  box-shadow: inset 3px 0 0 0 #092209;
+}
+
+// Rodapé de navegação (marca) discreto.
+.site-footer .v3r-footer {
+  color: #64748b;
+}
+.site-footer .v3r-footer a {
+  color: #2d5016;
+}

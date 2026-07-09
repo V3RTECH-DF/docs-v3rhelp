@@ -13,10 +13,10 @@ search:
   heading_level: 2
   previews: 3
 
-# Aparência.
-color_scheme: light
-# logo: "/assets/v3rhelp-logo-horizontal.png"   # habilitar quando o asset estiver publicado
-favicon_ico: "/assets/favicon.ico"
+# Aparência (identidade visual do V3RHelp — ver _sass/color_schemes/v3rhelp.scss).
+color_scheme: v3rhelp
+logo: "/assets/v3rhelp-logo-horizontal.svg"
+# Favicon e fontes são injetados por _includes/head_custom.html.
 
 # Diagramas de fluxo (usados em "Como usar bem o V3RHelp").
 mermaid:

@@ -9,7 +9,9 @@ description: Boas-vindas ao manual do V3RHelp! e o que é um sistema de chamados
 
 O V3RHelp! é o sistema de **chamados** (helpdesk) da sua organização. Ele organiza,
 em um só lugar, todos os pedidos de ajuda — de um problema técnico a uma dúvida
-simples — para que nada se perca e cada pessoa seja bem atendida.
+simples — para que nada se perca e cada pessoa seja bem atendida. É um sistema de
+suporte **genérico**: serve a qualquer segmento — tecnologia, marketing, gestão,
+serviços — e a qualquer tipo de atendimento, interno ou a clientes.
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,10 +31,10 @@ próprio (por exemplo, `A1B2-C3D4`). A partir daí, todo mundo sabe:
 - **quando** foi aberto e o que já foi respondido.
 
 {: .exemplo }
-> A Ana, moradora de um condomínio, abre um chamado dizendo que a fechadura do portão
-> está falhando. O chamado recebe o número `9F2A-71C0`. O zelador recebe o aviso,
-> responde que vai verificar ainda hoje, e a Ana acompanha tudo pelo mesmo link —
-> sem precisar ligar para saber "e aí, foi resolvido?".
+> A Ana, cliente de uma empresa de tecnologia, abre um chamado porque não consegue
+> acessar sua conta. O chamado recebe o número `9F2A-71C0`. O atendente responsável
+> recebe o aviso, responde que vai verificar ainda hoje, e a Ana acompanha tudo pelo
+> mesmo link — sem precisar ligar para saber "e aí, foi resolvido?".
 
 ## Como isso melhora a experiência de todo mundo
 
@@ -57,7 +59,7 @@ Você é **operador** ou **supervisor** e atende chamados. Comece por:
 - [Módulos](/modulos/) — cada tela explicada
 
 ### Você abre chamados?
-Você é **morador, cliente, assinante, autor** ou qualquer pessoa que pede ajuda.
+Você é **cliente, assinante, autor, colaborador** ou qualquer pessoa que pede ajuda.
 Comece por:
 
 - [Guia de Quem Abre Chamados](/guia-solicitante/) — como pedir ajuda de forma clara

@@ -57,7 +57,7 @@ no prazo, em atenção ou vencido.
 > Se o tempo está acabando, o sistema avisa a equipe.
 
 ## Solicitante
-Quem **abre** o chamado e pede a ajuda — morador, cliente, assinante, autor do site etc.
+Quem **abre** o chamado e pede a ajuda — cliente, assinante, autor, colaborador etc.
 
 ## Status
 O **momento** em que o chamado está. Os principais são:
