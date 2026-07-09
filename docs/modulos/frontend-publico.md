@@ -54,8 +54,23 @@ Há shortcodes/blocos para necessidades específicas:
 2. Anexa prints/arquivos, se quiser.
 3. Envia e recebe um **e-mail de confirmação** com o número e um botão para acompanhar.
 
+Logo após enviar, a própria tela já mostra uma **mensagem de confirmação** clara ("Seu chamado
+foi aberto e já entrou na fila de atendimento…") e abre o **acompanhamento** do chamado — a
+pessoa não fica sem saber o que aconteceu.
+
 Quem **não tem conta** recebe um **magic link** — um link seguro para acompanhar e responder
 sem precisar criar login.
+
+## Acompanhar e responder
+
+Na tela de acompanhamento, a pessoa vê a conversa do chamado e pode **responder** — com texto
+e, se precisar, **anexando arquivos** (prints, documentos), do mesmo jeito que na abertura. O
+anexo aparece junto da resposta.
+
+{: .importante }
+> O botão/link **"Meus chamados"** (e qualquer link de acompanhamento) leva direto ao **chamado
+> certo**, em qualquer página que tenha a Central — sem cair no formulário de abertura por
+> engano. Assim a pessoa continua de onde parou.
 
 ## Ambiente capturado automaticamente
 

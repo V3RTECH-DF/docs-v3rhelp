@@ -77,6 +77,9 @@ tipo** de aviso:
   restringe aos papéis escolhidos.
 - **URL da página da Central de Atendimento** — o endereço da página onde você publicou o
   shortcode `[v3rhelp_central]`. É usado para montar os **links dos e-mails**.
+- **Exibir a logo da organização nas telas públicas** — liga ou desliga a logo no topo dos
+  shortcodes/blocos públicos. Vem **ligada**; desligue se preferir as páginas de atendimento
+  sem a logo (por exemplo, quando a página do site já tem o cabeçalho da marca).
 
 {: .importante }
 > Definir a **URL da Central** garante que os botões "Acompanhar meu chamado" dos e-mails

@@ -69,9 +69,11 @@ uma sugestão é bem-vinda e será avaliada com carinho, mesmo que não seja ate
 
 ## Depois de abrir: acompanhe pelo mesmo lugar
 
-Você **não precisa ligar** para saber do andamento. Acompanhe pelo link do chamado (ou pelo
-e-mail que você recebe a cada atualização). Se a equipe pedir uma informação, responda pelo
-próprio chamado — assim tudo fica junto.
+Assim que você envia, a tela confirma que o chamado **entrou na fila** e abre o acompanhamento.
+Dali em diante você **não precisa ligar** para saber do andamento: acompanhe pelo link do
+chamado (ou pelo e-mail que você recebe a cada atualização). Se a equipe pedir uma informação,
+**responda pelo próprio chamado** — e, se ajudar, **anexe um arquivo ou print** na resposta.
+Assim tudo fica junto.
 
 {: .atencao }
 > Evite abrir **vários chamados para o mesmo assunto**. Isso divide a conversa e atrasa a

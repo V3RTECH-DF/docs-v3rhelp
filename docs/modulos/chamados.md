@@ -25,8 +25,8 @@ description: A fila de chamados e o atendimento de cada um — respostas, notas 
 
 ## A lista de chamados
 
-Abra **V3RHelp! > Chamados**. Você vê todos os chamados, com código, assunto, categoria,
-operador, status, SLA e data.
+Abra **V3RHelp! > Chamados**. Você vê todos os chamados, com código, assunto, **solicitante**
+(quem abriu — nome e e-mail), categoria, operador, status, SLA e data.
 
 ![Lista de chamados](../assets/mod-chamados-lista.png)
 
@@ -43,7 +43,8 @@ operador, status, SLA e data.
 ## O detalhe do chamado
 
 Clique em um chamado para abri-lo. À esquerda ficam a conversa e as ações; à direita, um
-resumo.
+resumo — com o **Solicitante** (nome e e-mail de quem abriu), categoria, SLA, reaberturas, os
+**anexos** e o ambiente.
 
 ![Detalhe do chamado](../assets/mod-chamados-detalhe.png)
 
@@ -52,12 +53,25 @@ resumo.
 - **Responder:** escreve uma mensagem que o **solicitante recebe** (por e-mail e no chamado).
 - **Nota interna:** um registro **visível só para a equipe** — use para raciocínio,
   verificações e combinados internos.
-- **Anexar:** adicione arquivos à sua resposta.
+- **Anexar:** adicione **um ou vários arquivos** à sua resposta. Os arquivos escolhidos ficam
+  listados como pendentes (com um **×** para remover) e sobem junto quando você envia. Cada
+  anexo aparece **na mesma mensagem** em que foi enviado, dentro da conversa.
 
 {: .importante }
 > Diferenciar **resposta** de **nota interna** é o que mantém a comunicação limpa: o cliente
 > recebe só o que interessa a ele, e a equipe preserva seu histórico técnico sem poluir a
 > conversa. Registrar sempre evita que, ao trocar de operador, o atendimento recomece do zero.
+
+{: .atencao }
+> Anexos enviados numa **nota interna** ficam **só para a equipe** — não aparecem para o
+> solicitante na página pública do chamado. Use isso quando o arquivo (um log, um print
+> interno) não deve ser visto por quem abriu.
+
+### Ver e remover anexos
+
+No resumo à direita, o card **Anexos** lista todos os arquivos do chamado. Cada um abre em uma
+nova aba ao clicar; o ícone de lixeira **remove** o anexo (do chamado e da biblioteca de
+mídia). A remoção é permanente.
 
 ### Mudar o status
 

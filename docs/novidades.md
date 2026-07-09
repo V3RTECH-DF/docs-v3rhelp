@@ -12,11 +12,33 @@ que muda para você.
 
 {: .dica }
 > Você confere a versão instalada no seu sistema em **V3RHelp! > Shortcodes e Documentação**,
-> no cartão do topo ("Versão instalada").
+> no rodapé da página ("V3RHelp X.Y.Z").
 
 ---
 
 <div class="timeline" markdown="1">
+
+## 1.6.0 · julho / 2026
+{: .text-green-200 }
+
+- **Quem abriu, sempre à vista:** a lista de chamados agora mostra a coluna **Solicitante**
+  (nome e e-mail), e o detalhe também — sem precisar entrar em cada chamado para saber de quem é.
+- **Anexos repensados:** cada arquivo aparece **junto da mensagem** em que foi enviado; a equipe
+  pode anexar **vários arquivos de uma vez** numa resposta e **remover** anexos quando preciso.
+  Arquivos de nota interna continuam **só para a equipe**.
+- **Para quem abre chamados:** ao enviar, você vê uma **mensagem clara de confirmação** e já cai
+  na tela de acompanhamento; e agora dá para **anexar arquivos também nas respostas**, não só na
+  abertura. O link **"Meus chamados"** leva sempre ao chamado certo.
+- **Sua página, do seu jeito:** dá para **ligar ou desligar a logo** da organização nas telas
+  públicas de atendimento.
+
+## 1.5.0 · julho / 2026
+{: .text-green-200 }
+
+- **Notas internas:** a equipe pode registrar observações **visíveis só para o suporte**, sem
+  que o solicitante veja — o histórico técnico fica separado da conversa com o cliente.
+- **Anexos na abertura pública:** quem abre um chamado pela página do site pode **anexar
+  arquivos** já no formulário.
 
 ## 1.4.0 · julho / 2026
 {: .text-green-200 }
