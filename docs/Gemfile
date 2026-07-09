@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+
+# Espelha o build NATIVO do GitHub Pages: apenas o gem `github-pages` (que já
+# inclui o jekyll-remote-theme). O tema just-the-docs é puxado via `remote_theme`
+# no _config.yml — NÃO liste o gem just-the-docs aqui, senão o build nativo do
+# Pages falha (gem fora da allowlist). Use "bundle exec jekyll serve" para preview.
+gem "github-pages", group: :jekyll_plugins
+
+# Compatibilidade em Rubies mais novos (servidor local).
+gem "webrick", "~> 1.8"
