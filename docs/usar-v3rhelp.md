@@ -75,12 +75,19 @@ Você é **operador** ou **supervisor**. Seu trabalho acontece no painel do Word
 O detalhe do chamado também mostra o **Ambiente do solicitante** (navegador, sistema, tela),
 capturado na abertura — isso ajuda a diagnosticar sem precisar perguntar.
 
+{: .dica }
+> Dois atalhos do dia a dia: ao **responder**, o chamado já vira **Em andamento** sozinho (não
+> precisa mudar o status antes); e você pode atender **direto pela Central** (a página pública),
+> sem abrir o painel — vendo os chamados designados a você.
+
 ### Como supervisor, além disso
 
 1. Acompanhe o **Dashboard** (abertos, tempo médio, sem operador) para enxergar a operação.
 2. Ajuste **Categorias** e **políticas de SLA** conforme a realidade da equipe.
 3. Cuide da **Equipe** (operadores e supervisores) e do que cada um atende.
 4. Configure as **Notificações** (inclusive lembretes de chamados parados) em **Configurações**.
+5. Você recebe uma **cópia de cada chamado aberto** (para acompanhar o movimento) e pode
+   **atender pela Central** com visão de **todos** os chamados, sem entrar no painel.
 
 Cada uma dessas telas é detalhada em [Módulos](/modulos/).
 

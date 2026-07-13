@@ -18,6 +18,60 @@ que muda para você.
 
 <div class="timeline" markdown="1">
 
+## 1.12.0 · julho / 2026
+{: .text-green-200 }
+
+- **Menos spam nos chamados públicos:** o formulário de abertura por **visitantes** ganhou uma
+  proteção anti-spam **invisível** — sem captcha e sem atrapalhar quem é gente de verdade. Vem
+  ligada e pode ser ajustada em **Configurações > Público**.
+
+## 1.11.0 · julho / 2026
+{: .text-green-200 }
+
+- **Atenda pela Central, sem abrir o painel:** supervisores e operadores agora podem **ver e
+  cuidar de chamados direto pela página pública** da Central de Atendimento. O supervisor
+  enxerga **todos** os chamados; o operador, os que estão **com ele**. Dá para **responder,
+  mudar o status e designar** por ali mesmo.
+
+## 1.10.0 · julho / 2026
+{: .text-green-200 }
+
+- **Status que anda sozinho:** quando a equipe **responde** um chamado, ele já passa para
+  **Em andamento** — sem precisar mudar na mão.
+- **Resolveu e o problema voltou? Basta responder:** se o seu chamado foi marcado como
+  resolvido mas persiste, é só **responder** que ele **reabre automaticamente**. Se já houve
+  muitas reaberturas, o sistema abre um **chamado novo ligado ao antigo**, sem perder nada.
+
+## 1.9.0 · julho / 2026
+{: .text-green-200 }
+
+- **Cada chamado com um dono:** dá para escolher se os chamados novos já saem **com um
+  operador** (por rodízio) ou ficam para a equipe distribuir à mão.
+- **Supervisão no radar:** os **supervisores** passam a receber uma **cópia** de cada chamado
+  aberto, para acompanhar o movimento sem depender de ninguém avisar.
+- **Transferência sem surpresa:** ao passar um chamado para outro operador, os **dois** — o
+  novo e o anterior — são avisados por e-mail.
+
+## 1.8.0 · julho / 2026
+{: .text-green-200 }
+
+- **Enviar feedback ficou mais completo:** o formulário de **feedback sobre o V3RHelp** (para a
+  equipe da V3RTECH) ganhou **tipos** (Sugestão, Dúvida, Bug, Depoimento, Outros), campos de
+  **depoimento** com autorização de publicação, **e-mail para resposta** e uma **cópia de
+  confirmação** para você.
+
+## 1.7.1 · julho / 2026
+{: .text-green-200 }
+
+- **E-mails de feedback mais úteis:** passam a incluir a **logo** no topo e um resumo do
+  **ambiente**, dando contexto para a equipe entender o cenário mais rápido.
+
+## 1.7.0 · julho / 2026
+{: .text-green-200 }
+
+- **Anexos no feedback:** ao mandar um feedback sobre o V3RHelp, agora dá para **anexar
+  arquivos** (prints, documentos) junto da mensagem.
+
 ## 1.6.0 · julho / 2026
 {: .text-green-200 }
 

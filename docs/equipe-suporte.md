@@ -77,5 +77,8 @@ hoje, seu chamado será tratado até amanhã de manhã" é muito melhor do que s
 - Acompanhar os **indicadores** (quantos abertos, tempo médio, quem está sobrecarregado).
 - Ajustar **categorias**, **prazos (SLA)** e a **equipe** conforme a demanda.
 - Servir de apoio nos casos difíceis e garantir que ninguém fique sozinho com um problema.
+- Acompanhar as **aberturas** — o supervisor recebe uma **cópia por e-mail** de cada chamado
+  aberto — e, se preferir, **atender pela Central** (a página pública) com visão de **todos** os
+  chamados, sem entrar no painel.
 
 Pronto para ver isso na prática? Siga para [Como usar bem o V3RHelp](/usar-v3rhelp/).

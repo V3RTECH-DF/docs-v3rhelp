@@ -2,9 +2,9 @@
 title: Central de Atendimento (público)
 parent: Módulos
 nav_order: 8
-role: [supervisor, solicitante]
+role: [supervisor, operador, solicitante]
 screenshots: [mod-publico-central, mod-publico-abertura]
-last_verified: 2026-07-09
+last_verified: 2026-07-13
 status: publicado
 description: A página do site onde as pessoas abrem e acompanham chamados — por shortcode ou bloco.
 ---
@@ -72,6 +72,30 @@ anexo aparece junto da resposta.
 > certo**, em qualquer página que tenha a Central — sem cair no formulário de abertura por
 > engano. Assim a pessoa continua de onde parou.
 
+{: .dica }
+> Se o chamado já estava **Resolvido**, **responder pela Central o reabre automaticamente** —
+> a própria tela avisa isso no campo de resposta. Não é preciso procurar um botão de "reabrir".
+
+## Atendimento pela Central (equipe)
+
+A Central não é só para quem abre chamados: **supervisores e operadores** também podem
+**atender por ali**, sem entrar no painel do WordPress — útil para quem trabalha direto do
+site.
+
+Ao acessar a Central **logado**, além de "Meus chamados" a equipe vê uma lista de trabalho:
+
+- **Supervisor:** a seção **"Todos os chamados"**, com a fila completa (paginada).
+- **Operador:** a seção **"Designados a mim"**, só com os chamados sob a sua responsabilidade.
+
+Abrindo um chamado permitido, aparecem os mesmos controles do painel: **responder**, **mudar o
+status** e **designar** o operador. As regras são as de sempre — por exemplo, a resposta da
+equipe leva o chamado para *Em andamento*.
+
+{: .importante }
+> O acesso é por **papel e permissão**, validado no servidor: o operador só alcança os chamados
+> **designados a ele**; a fila completa é exclusiva de quem tem perfil de **supervisão**. Quem
+> abre chamados continua vendo **apenas os seus**.
+
 ## Ambiente capturado automaticamente
 
 Ao abrir um chamado, o V3RHelp registra, de forma automática, o **ambiente** de quem abriu:
@@ -87,3 +111,8 @@ navegador, sistema operacional, tamanho de tela e versões. Isso aparece só par
 
 Em **Configurações > Frontend público** você decide se **visitantes** (sem login) podem abrir
 chamados e/ou **quais papéis** de usuário do site têm essa permissão.
+
+{: .dica }
+> Quando a abertura por **visitantes** está liberada, a **proteção anti-spam** (ligada por
+> padrão) trabalha nos bastidores para barrar robôs — **sem captcha** e sem atrito para quem é
+> gente de verdade. Detalhes em [Configurações](/modulos/configuracoes/).

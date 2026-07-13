@@ -4,7 +4,7 @@ parent: Módulos
 nav_order: 1
 role: [operador, supervisor]
 screenshots: [mod-chamados-lista, mod-chamados-detalhe]
-last_verified: 2026-07-09
+last_verified: 2026-07-13
 status: publicado
 description: A fila de chamados e o atendimento de cada um — respostas, notas internas, anexos, status e designação.
 ---
@@ -83,6 +83,11 @@ Aguardando → Resolvido). O sistema só oferece as transições válidas.
 > chamado resolvido que continua "Em andamento" distorce os números e some da conta de quem
 > precisa de ação. Ao concluir, marque **Resolvido** — o solicitante é avisado na hora.
 
+{: .dica }
+> Você não precisa mover para **Em andamento** na mão: assim que a equipe **responde** um
+> chamado que está em *Aberto*, *Aguardando* ou *Reaberto*, ele passa **sozinho** para *Em
+> andamento*. Menos cliques, status sempre coerente com o atendimento.
+
 ### Designar um operador
 
 No resumo à direita, escolha o **operador** responsável. Chamados sem dono tendem a ser
@@ -93,10 +98,29 @@ esquecidos.
 > — e é assim que pedidos "caem no vão". Se sua organização usa rodízio por categoria, a
 > designação automática já cuida disso na abertura.
 
+{: .dica }
+> Ao **transferir** um chamado, os dois lados são avisados por e-mail: o **novo** operador
+> recebe "designado a você" e o **anterior**, "você não está mais neste chamado". Ninguém
+> descobre por acaso que deixou (ou ganhou) um chamado.
+
 ### Reabrir
 
-Se um chamado resolvido volta a ter problema, use **Reabrir** e informe o motivo (há um
-limite de reaberturas configurável).
+Um chamado resolvido volta ao fluxo de duas formas:
+
+- **O solicitante responde** o chamado resolvido → ele **reabre automaticamente**, sem
+  precisar de botão. É o caminho mais comum, e o operador responsável é avisado.
+- **A equipe reabre** pelo botão **Reabrir**, informando o motivo.
+
+Há um **limite de reaberturas** configurável. Quando o limite é atingido e o solicitante
+responde de novo, em vez de reabrir o sistema **abre um novo chamado vinculado** ao anterior —
+com a mensagem enviada e uma referência ao chamado de origem —, para não perder nem o
+histórico nem a nova solicitação.
+
+{: .importante }
+> A reabertura automática ao responder fecha uma lacuna comum: o cliente respondia um chamado
+> "resolvido" e a mensagem passava despercebida. Agora responder **traz o chamado de volta**
+> para a fila — e, se já houve reaberturas demais, o assunto continua num chamado novo, limpo
+> e rastreável.
 
 ### Ambiente do solicitante
 

@@ -48,10 +48,11 @@ vencer, e vermelho quando já passou. Saiba mais em [Definições](/definicoes/)
 
 ### Meu chamado foi marcado como resolvido, mas o problema voltou. O que eu faço?
 
-Você pode reabrir o próprio chamado — existe um limite de reaberturas
-configurado pela sua organização, mas na grande maioria dos casos isso não é
-problema. Reabrir mantém todo o histórico junto, então é sempre melhor do que
-abrir um chamado novo.
+É só **responder** o chamado: ele **reabre automaticamente** e volta para a
+fila da equipe — não precisa procurar um botão de "reabrir". Existe um limite de
+reaberturas definido pela sua organização; se ele já tiver sido atingido, sua
+resposta abre um **chamado novo, ligado ao anterior**, para nada se perder.
+Responder no chamado que já existe mantém todo o histórico junto.
 
 ### Vocês coletam meus dados ou meu IP quando abro um chamado?
 
@@ -122,6 +123,23 @@ deveria assumir, deixe uma nota interna explicando o motivo da troca.
 ### Quantas vezes um solicitante pode reabrir o mesmo chamado?
 
 Depende do limite configurado pela sua organização em
-[Configurações](/modulos/configuracoes/). Depois de atingido o limite, uma
-reabertura extra passa a exigir um chamado novo — nesse caso, vale explicar
-isso ao solicitante para não gerar frustração.
+[Configurações](/modulos/configuracoes/). O solicitante reabre simplesmente
+**respondendo** o chamado resolvido. Depois de atingido o limite, se ele
+responder de novo o sistema abre **automaticamente** um chamado novo, **vinculado
+ao anterior** (com a mensagem e uma referência ao chamado de origem) — sem o
+solicitante precisar fazer nada à mão.
+
+### Posso atender chamados pela Central, sem entrar no painel?
+
+Sim. **Supervisores** e **operadores** podem trabalhar direto pela **Central de
+Atendimento** (a página pública). O supervisor vê **todos** os chamados; o
+operador, os **designados a ele** — e ambos podem responder, mudar o status e
+designar por ali. O acesso é validado por papel e permissão; quem só abre
+chamados continua vendo apenas os seus.
+
+### Como envio uma sugestão ou relato sobre o próprio V3RHelp?
+
+No painel, use o botão **Enviar Feedback** (topo da tela do V3RHelp). Escolha o
+**tipo** (Sugestão, Dúvida, Bug, Depoimento ou Outros), escreva a mensagem e,
+se quiser, anexe arquivos e informe um e-mail para resposta. A mensagem vai para
+a equipe do V3RHelp (V3RTECH), e você recebe uma **cópia de confirmação**.

@@ -4,7 +4,7 @@ parent: Módulos
 nav_order: 4
 role: [supervisor]
 screenshots: [mod-equipe-01]
-last_verified: 2026-07-09
+last_verified: 2026-07-13
 status: publicado
 description: Quem atende os chamados — operadores e supervisores — e quais categorias cada um cobre.
 ---
@@ -62,6 +62,9 @@ Distribuir os operadores por categoria coloca cada chamado com quem realmente en
 
 {: .importante }
 A designação automática pelo rodízio evita chamados "sem dono": todo chamado novo já nasce com um responsável definido, sem depender de alguém escolher manualmente.
+
+{: .dica }
+O rodízio pode ser **ligado ou desligado** em **Configurações > Chamados** ("Designar operador automaticamente por rodízio ao abrir o chamado"). Desligado, os chamados abrem **sem operador**, para um supervisor fazer a triagem e distribuir à mão.
 
 {: .exemplo }
 João atende as categorias "Financeiro" e "Acesso"; Maria atende "Manutenção". Ao abrir um chamado na categoria Financeiro, o rodízio designa automaticamente João — porque é o operador elegível para aquela categoria.

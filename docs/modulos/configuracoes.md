@@ -4,7 +4,7 @@ parent: Módulos
 nav_order: 6
 role: [supervisor]
 screenshots: [mod-configuracoes-01]
-last_verified: 2026-07-09
+last_verified: 2026-07-13
 status: publicado
 description: A identidade da organização, as notificações por e-mail e o comportamento da Central de Atendimento.
 ---
@@ -39,10 +39,19 @@ Em **V3RHelp! > Configurações** ficam os ajustes gerais do sistema, organizado
 ## Chamados
 
 - **Limite de reaberturas por chamado** — quantas vezes um chamado resolvido pode ser reaberto.
+- **Designar operador automaticamente por rodízio ao abrir o chamado** — quando **ligado**
+  (padrão), todo chamado novo já sai com um operador, escolhido por rodízio entre os elegíveis
+  da categoria. **Desligado**, os chamados abrem **sem operador**, para a equipe designar à mão.
 
 {: .importante }
 > O limite de reaberturas evita que um único chamado vire uma conversa infinita. Quando o
-> limite é atingido, o ideal é abrir um novo chamado — o que mantém o histórico organizado.
+> limite é atingido, o sistema abre **automaticamente** um novo chamado vinculado — o que
+> mantém o histórico organizado sem perder a nova mensagem.
+
+{: .dica }
+> Deixe a **designação automática** ligada se você usa rodízio por categoria e quer que nada
+> fique sem dono. Desligue se prefere que um supervisor **triagem** os chamados e distribua
+> manualmente.
 
 ## Notificações
 
@@ -53,6 +62,10 @@ tipo** de aviso:
 - Avisar sobre novas respostas
 - Avisar o solicitante quando o chamado for resolvido
 - Avisar o operador quando o chamado for reaberto
+- **Avisar o operador (novo e anterior) quando o chamado for (re)designado**
+- **Enviar cópia de cada chamado aberto aos supervisores** — todo supervisor recebe uma cópia
+  de acompanhamento quando um chamado é aberto (sem duplicar quem já é o solicitante ou o
+  operador). Vem **ligado**
 - **Lembrete de SLA** (chamado em risco ou vencido) aos operadores
 - **Lembrete de chamados parados (inatividade)** — e, ao lado, **quantos dias** sem
   movimentação disparam o lembrete
@@ -80,6 +93,10 @@ tipo** de aviso:
 - **Exibir a logo da organização nas telas públicas** — liga ou desliga a logo no topo dos
   shortcodes/blocos públicos. Vem **ligada**; desligue se preferir as páginas de atendimento
   sem a logo (por exemplo, quando a página do site já tem o cabeçalho da marca).
+- **Proteção anti-spam na abertura por visitantes** — vem **ligada**. Sem captcha e sem
+  incomodar quem é gente de verdade: barra robôs por trás dos panos (campo-isca invisível,
+  tempo mínimo de preenchimento e um limite de aberturas por origem). Só afeta **visitantes
+  sem login**; quem já está logado passa direto.
 
 {: .importante }
 > Definir a **URL da Central** garante que os botões "Acompanhar meu chamado" dos e-mails
@@ -87,5 +104,6 @@ tipo** de aviso:
 > automaticamente, que não têm como adivinhar esse endereço sozinhos.
 
 {: .atencao }
-> Liberar a abertura para **visitantes** é ótimo para acessibilidade, mas exponha o formulário
-> a spam. Combine com boas categorias e, se necessário, avalie proteção anti-spam no site.
+> Liberar a abertura para **visitantes** é ótimo para acessibilidade, mas expõe o formulário a
+> spam. Por isso a **proteção anti-spam** (acima) já vem ligada — deixe-a ativa quando permitir
+> visitantes. Ela é invisível para o público e não pede captcha.
