@@ -20,6 +20,7 @@ suporte** (operadores e supervisores). Quem apenas abre chamados usa a
 
 - [Chamados](/modulos/chamados/) — a fila e o atendimento de cada chamado
 - [Categorias](/modulos/categorias/) — os assuntos que organizam os chamados
+- [Formulários](/modulos/formularios/) — tipos de solicitação com campos próprios (e protocolo)
 - [SLA](/modulos/sla/) — os prazos de atendimento
 - [Equipe](/modulos/equipe/) — operadores e supervisores
 - [Dashboard](/modulos/dashboard/) — indicadores e gráficos

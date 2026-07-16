@@ -18,6 +18,39 @@ que muda para você.
 
 <div class="timeline" markdown="1">
 
+## 1.18.0 · julho / 2026
+{: .text-green-200 }
+
+- **Campos que aparecem só quando precisam:** agora um campo do formulário pode ser **condicional**
+  — ele só aparece quando outro campo tem um certo valor (por exemplo, mostrar "CNPJ" apenas se o
+  tipo de pessoa for "Jurídica"). Menos formulário na tela, mais foco no que importa. Também
+  chegou a **máscara de CEP**.
+
+## 1.17.0 · julho / 2026
+{: .text-green-200 }
+
+- **Entrega de documento pelo operador:** ao responder um chamado, a equipe pode marcar a
+  resposta como **"documento entregue"**. O solicitante recebe um **e-mail avisando que há um
+  documento disponível** e vê a mensagem destacada com o selo **"Documento disponível"**. Fecha
+  o fluxo de quem usa o V3RHelp como **protocolo** (pedir e entregar documentos).
+
+## 1.16.0 · julho / 2026
+{: .text-green-200 }
+
+- **Consentimento LGPD nos formulários:** já vem um conjunto de campos pronto de **Consentimento
+  LGPD** para você usar nos seus formulários. Quando o solicitante aceita, o chamado guarda **o
+  texto do aceite e a data e hora** — bom para conformidade e transparência.
+
+## 1.15.0 · julho / 2026
+{: .text-green-200 }
+
+- **Formulários personalizados de chamados:** agora você monta **tipos de solicitação** com os
+  **campos que quiser** (texto, número, data, listas, caixas de seleção, anexo…), com campos
+  **obrigatórios** e validação (CPF, CNPJ, telefone). Os campos ficam em **conjuntos
+  reutilizáveis** que você aproveita em vários tipos. Na hora de abrir o chamado, quem pede
+  escolhe o tipo e preenche só o que importa — e a equipe vê tudo organizado no bloco **"Dados do
+  formulário"**. Configure em **V3RHelp! > Tipos de solicitação** e **Conjuntos de campos**.
+
 ## 1.12.0 · julho / 2026
 {: .text-green-200 }
 

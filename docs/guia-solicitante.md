@@ -67,6 +67,23 @@ Isso ajuda a equipe a te atender melhor:
 Ao abrir o chamado, diga qual é o caso. Um problema que impede seu trabalho merece destaque;
 uma sugestão é bem-vinda e será avaliada com carinho, mesmo que não seja atendida na hora.
 
+## Formulários de solicitação: escolha o tipo certo
+
+Dependendo da organização, o formulário de abertura pode oferecer um **Tipo de solicitação**
+(por exemplo, "Suporte técnico" ou "Solicitação de documento"). Ao escolher o tipo, o formulário
+mostra **os campos daquele pedido** — pode incluir dados como CPF, um tipo de documento a
+escolher, ou uma caixa de **consentimento** para o tratamento dos seus dados.
+
+- Preencha os campos marcados com **\*** (obrigatórios) — sem eles o envio não é concluído.
+- Se aparecer um campo de **consentimento (LGPD)**, leia e marque para autorizar o uso dos seus
+  dados no atendimento. O sistema guarda a data e a hora do seu aceite.
+- Alguns campos conferem o formato na hora (um **CPF** inválido, por exemplo, não é aceito) — é
+  só corrigir e enviar de novo.
+
+{: .dica }
+> Não se preocupe em decorar campos: o formulário só pede o que aquele tipo de solicitação
+> precisa. Quanto mais completo você preencher, mais rápido a equipe resolve.
+
 ## Depois de abrir: acompanhe pelo mesmo lugar
 
 Assim que você envia, a tela confirma que o chamado **entrou na fila** e abre o acompanhamento.

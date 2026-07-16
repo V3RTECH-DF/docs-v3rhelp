@@ -56,6 +56,11 @@ resumo — com o **Solicitante** (nome e e-mail de quem abriu), categoria, SLA, 
 - **Anexar:** adicione **um ou vários arquivos** à sua resposta. Os arquivos escolhidos ficam
   listados como pendentes (com um **×** para remover) e sobem junto quando você envia. Cada
   anexo aparece **na mesma mensagem** em que foi enviado, dentro da conversa.
+- **Documento entregue:** ao responder (sem ser nota interna), marque **"Documento entregue"**
+  para avisar o solicitante de que há um documento disponível. A mensagem ganha o selo
+  **"Documento disponível"** na conversa e o solicitante recebe um **e-mail específico** com o
+  botão para acessar o chamado e baixar o anexo. Use quando o V3RHelp funciona como
+  **protocolo** (ver [Formulários](/modulos/formularios/)).
 
 {: .importante }
 > Diferenciar **resposta** de **nota interna** é o que mantém a comunicação limpa: o cliente
@@ -121,6 +126,14 @@ histórico nem a nova solicitação.
 > "resolvido" e a mensagem passava despercebida. Agora responder **traz o chamado de volta**
 > para a fila — e, se já houve reaberturas demais, o assunto continua num chamado novo, limpo
 > e rastreável.
+
+### Dados do formulário
+
+Se o chamado foi aberto por um **tipo de solicitação** com campos personalizados (ver
+[Formulários](/modulos/formularios/)), o resumo à direita mostra o bloco **Dados do formulário**
+com tudo o que o solicitante preencheu — cada campo com seu rótulo e valor, incluindo o
+**consentimento LGPD** (com a data e hora do aceite), quando houver. O bloco só aparece quando há
+dados a mostrar.
 
 ### Ambiente do solicitante
 
