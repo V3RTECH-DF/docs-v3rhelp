@@ -47,8 +47,8 @@ O construtor tem duas telas no menu **V3RHelp!**, e elas trabalham juntas:
 2. Dê um nome (ex.: "Dados pessoais") e salve.
 3. No conjunto, clique em **Adicionar campo**. Para cada campo você define:
    - **Rótulo** — o que o solicitante lê (ex.: "CPF").
-   - **Tipo** — Texto, Texto longo, Número, Data, Lista suspensa, Escolha única, Múltipla
-     escolha ou Arquivo.
+   - **Tipo** — Texto, Texto longo, **E-mail**, Número, Data, Lista suspensa, Escolha única,
+     Múltipla escolha ou Arquivo. (O tipo **E-mail** confere se o endereço é válido no envio.)
    - **Obrigatório** — se o campo precisa ser preenchido.
    - **Texto de ajuda** — uma dica que aparece abaixo do campo.
    - Em campos de **seleção**, as **opções** (uma por linha). Em **texto** e **número**, regras
