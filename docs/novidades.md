@@ -18,6 +18,28 @@ que muda para você.
 
 <div class="timeline" markdown="1">
 
+## 1.22.0 · julho / 2026
+{: .text-green-200 }
+
+- **Exportação mais organizada:** a exportação agora separa **Configuração** (configurações, SLA e
+  categorias — para replicar num site novo) de **Dados** (chamados + operadores). Assim você leva a
+  "receita" do seu suporte para outra instalação sem arrastar junto os chamados e as pessoas.
+
+## 1.21.0 · julho / 2026
+{: .text-green-200 }
+
+- **Conjuntos de campos condicionais:** um formulário pode mostrar **grupos de campos diferentes**
+  conforme a escolha do solicitante. Ex.: um select "Tipo de pedido" (licença, isenção, mudança…)
+  revela só os campos daquele pedido. Ótimo para atender vários tipos de solicitação num formulário
+  só.
+
+## 1.20.0 · julho / 2026
+{: .text-green-200 }
+
+- **Painel de atendimento no seu site:** um novo shortcode `[v3rhelp_admin]` coloca o **painel
+  completo** (Dashboard e todas as opções) numa página do próprio site, só para a equipe logada —
+  útil para atender sem entrar no painel do WordPress.
+
 ## 1.18.0 · julho / 2026
 {: .text-green-200 }
 
