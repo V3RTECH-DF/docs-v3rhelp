@@ -40,6 +40,13 @@ Há shortcodes/blocos para necessidades específicas:
 | `[v3rhelp_open_ticket]` | V3RHelp — Abrir chamado | Só o formulário de abertura |
 | `[v3rhelp_my_tickets]` | V3RHelp — Meus chamados | Lista dos chamados do usuário logado |
 | `[v3rhelp_ticket]` | — | Detalhe de um chamado (via magic link) |
+| `[v3rhelp_admin]` | — | **Painel de atendimento completo** (Dashboard e todas as opções) numa página do site — só para a equipe logada |
+
+{: .dica }
+> **Painel no site (`[v3rhelp_admin]`):** cole esse shortcode numa **página dedicada** para ter todo
+> o painel de atendimento (o mesmo do wp-admin) direto no site. Ele só aparece para quem está
+> **logado e tem permissão** de atendimento — solicitantes e visitantes veem um aviso. Útil para a
+> equipe atender sem entrar no wp-admin.
 
 {: .importante }
 > Depois de publicar a Central, copie o endereço dela e coloque em

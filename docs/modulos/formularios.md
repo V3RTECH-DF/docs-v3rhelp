@@ -75,6 +75,23 @@ esperto: um campo que está **oculto** não é cobrado como obrigatório nem é 
 > O campo controlador precisa estar **no mesmo conjunto** do campo condicional. Coloque os dois
 > no mesmo conjunto de campos para a condição funcionar.
 
+### Conjuntos de campos condicionais
+
+Você também pode fazer um **conjunto inteiro** aparecer só sob condição. Isso é ótimo quando um
+formulário atende a vários pedidos diferentes: crie um conjunto "mestre" com um campo de **escolha**
+(ex.: "Tipo de pedido" com Licença/Isenção/Mudança) e, para cada opção, um conjunto de campos
+próprio — cada um configurado para aparecer só quando o campo mestre tem aquele valor.
+
+Isso é feito no construtor de **Tipos de solicitação**: ao adicionar um conjunto à composição, use
+**"mostrar este conjunto só sob condição"** e escolha o campo controlador (de outro conjunto do
+formulário), a condição e o valor. No formulário, o conjunto inteiro aparece e some conforme a
+resposta — e os campos de um conjunto oculto não são exigidos nem gravados.
+
+{: .dica }
+> **Exemplo GEJA:** um único tipo "Solicitação" com um conjunto mestre "Tipo de pedido" (select) e
+> um conjunto por pedido (licença, isenção, mudança…), cada um condicional àquele select. O
+> solicitante escolhe o pedido e só o formulário daquele pedido aparece.
+
 ### O conjunto "Consentimento LGPD" já vem pronto
 
 O V3RHelp cria automaticamente um conjunto **Consentimento LGPD** (marcado como **"Sistema"** —
