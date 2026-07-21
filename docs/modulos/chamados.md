@@ -93,10 +93,14 @@ Aguardando → Resolvido). O sistema só oferece as transições válidas.
 > chamado que está em *Aberto*, *Aguardando* ou *Reaberto*, ele passa **sozinho** para *Em
 > andamento*. Menos cliques, status sempre coerente com o atendimento.
 
-### Designar um operador
+### Designar um operador ou um grupo
 
-No resumo à direita, escolha o **operador** responsável. Chamados sem dono tendem a ser
-esquecidos.
+No resumo à direita, o seletor **Designar a** lista os **Operadores** e os **Grupos**
+separadamente. Escolha um operador para dar um dono único ao chamado, ou um **grupo** para deixá-lo
+compartilhado com um time inteiro. Chamados sem dono tendem a ser esquecidos.
+
+Quando o chamado está com um grupo, os membros veem os botões **Assumir** (pegar o chamado para si)
+e, depois, **Devolver ao grupo**. Entenda o fluxo completo em [Grupos](grupos).
 
 {: .importante }
 > A **designação** dá um dono claro ao chamado. Sem responsável, ninguém sabe de quem é a vez

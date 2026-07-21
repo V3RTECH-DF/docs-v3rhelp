@@ -56,6 +56,10 @@ Para editar, clique na categoria na lista e ajuste nome, cor ou SLA. Para exclui
 {: .importante }
 > A categoria certa também é o que faz o rodízio de operadores (configurado na tela de Equipe) funcionar direito: cada categoria pode ter operadores responsáveis, e o chamado é distribuído entre eles. Uma categoria mal escolhida — ou chamados sempre caindo em "Geral" — quebra esse direcionamento e sobrecarrega quem menos deveria atender aquele assunto.
 
+## Grupo padrão da categoria
+
+Cada categoria pode apontar um **Grupo padrão** de operadores. Quando você define esse campo, todo chamado novo daquela categoria cai direto no grupo (compartilhado), em vez de ser distribuído a um operador pelo rodízio. É a forma mais direta de fazer um time inteiro receber os chamados de um assunto e se organizar entre si. Se você deixar o campo vazio, o rodízio individual de sempre continua valendo. Veja [Grupos](grupos) para entender como o time trabalha a partir daí.
+
 {: .dica }
 > Use cores que contrastem bem entre si, principalmente se você tiver muitas categorias. Isso facilita reconhecer a fila de longe, sem precisar ler nome por nome.
 

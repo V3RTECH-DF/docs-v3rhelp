@@ -71,5 +71,6 @@ João atende as categorias "Financeiro" e "Acesso"; Maria atende "Manutenção".
 
 ## Próximos passos
 
+- [Grupos](grupos.html) — reúna operadores em times para atenderem chamados em conjunto.
 - [Categorias](categorias.html) — como criar e organizar as categorias usadas na Equipe.
 - [Chamados](chamados.html) — como um chamado é designado e pode ser redistribuído.

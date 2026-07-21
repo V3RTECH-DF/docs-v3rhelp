@@ -110,7 +110,8 @@ solicitante aceita, o chamado registra **o texto do aceite e a data e hora**.
 1. Abra **V3RHelp! > Tipos de solicitação** e clique em **Novo tipo**.
 2. Dê um nome (ex.: "Solicitação de documento") e, se quiser, uma descrição.
 3. Escolha, se fizer sentido, a **Categoria**, a **Política de SLA** e o **Operador padrão** —
-   assim os chamados desse tipo já entram organizados e no prazo certo.
+   assim os chamados desse tipo já entram organizados e no prazo certo. Em vez de um operador, você
+   pode apontar um **Grupo padrão**: os chamados desse tipo caem num time inteiro (ver [Grupos](grupos)).
 4. Em **Conjuntos de campos**, adicione os conjuntos na ordem em que devem aparecer no
    formulário (use as setas para reordenar).
 5. Marque **Ativo** para o tipo aparecer no formulário público. Marque **Padrão** para ele já vir

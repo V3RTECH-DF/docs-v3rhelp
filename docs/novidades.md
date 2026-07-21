@@ -18,6 +18,15 @@ que muda para você.
 
 <div class="timeline" markdown="1">
 
+## 1.23.0 · julho / 2026
+{: .text-green-200 }
+
+- **Grupos de operadores:** agora dá para designar um chamado a um **grupo** de atendentes, não só a
+  uma pessoa. O time trabalha junto no mesmo chamado ou um dos membros clica em **Assumir** para
+  cuidar dele — e pode **Devolver ao grupo** depois. Você monta os grupos na nova tela **Grupos** e
+  pode fazer cada **categoria** (ou tipo de solicitação) mandar os chamados novos direto para um grupo.
+  Veja em [Módulos > Grupos](modulos/grupos).
+
 ## 1.22.0 · julho / 2026
 {: .text-green-200 }
 
