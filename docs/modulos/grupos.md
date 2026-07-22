@@ -74,6 +74,8 @@ No detalhe de um chamado que está com um grupo, os membros veem um bloco com o 
 - **Operadores** veem os chamados designados a eles **e** os designados aos grupos de que fazem parte — inclusive depois que um colega assume (com o selo "Assumido por…"), para não perder o acompanhamento.
 - **Solicitantes** não veem grupos: para quem abre o chamado, nada muda.
 
+Na lista de **Chamados**, a coluna "Operador" mostra **"Grupo: *nome*"** quando o chamado está compartilhado com um time (e o nome do operador quando alguém já assumiu), para você distinguir de relance o que ainda está com o grupo do que já tem dono.
+
 ## E-mails
 
 - Quando um chamado é designado a um grupo, **todos os membros** recebem um aviso.
