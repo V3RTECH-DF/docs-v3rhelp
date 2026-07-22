@@ -37,7 +37,7 @@ Todo membro da equipe de suporte é, antes de tudo, um usuário do WordPress. Ao
 1. Clique em **Adicionar membro**.
 2. Escolha o usuário do WordPress que vai integrar a equipe.
 3. Defina o papel: Operador ou Supervisor.
-4. Se for Operador, marque as **Categorias** que ele atende.
+4. Se for Operador, escolha as **Categorias** que ele atende — use o campo de busca para achá-las pelo nome; as escolhidas viram etiquetas com um contador.
 5. Salve.
 
 ## Editar um membro
