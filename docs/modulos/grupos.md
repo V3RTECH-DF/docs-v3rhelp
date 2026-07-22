@@ -40,10 +40,10 @@ A partir daí, duas coisas podem acontecer:
 
 1. Na tela **Grupos**, clique em **Novo grupo**.
 2. Dê um **nome** (ex.: "Suporte N1") e, se quiser, uma **descrição**.
-3. Marque os **membros** do grupo — a lista traz os operadores já cadastrados na tela [Equipe](equipe).
+3. Escolha os **membros**: use o campo de **busca** para encontrar operadores pelo nome (a lista traz os operadores já cadastrados na tela [Equipe](equipe)). Cada operador escolhido vira uma "etiqueta" no topo, com um contador **"X selecionado(s)"** — clique no **×** da etiqueta para remover. Se você filtrar por um termo, o botão **"Selecionar todos os filtrados"** marca de uma vez todos os que aparecem na busca (útil para times grandes).
 4. Clique em **Salvar**.
 
-![Novo grupo com membros](../assets/mod-grupos-02.png)
+![Novo grupo — seletor de membros com busca](../assets/mod-grupos-02.png)
 
 {: .dica }
 > Só quem está cadastrado como operador na tela **Equipe** aparece para virar membro de um grupo. Cadastre a pessoa lá primeiro.

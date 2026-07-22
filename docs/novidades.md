@@ -18,6 +18,14 @@ que muda para você.
 
 <div class="timeline" markdown="1">
 
+## 1.24.0 · julho / 2026
+{: .text-green-200 }
+
+- **Escolha de membros do grupo com busca:** ao montar um [grupo](modulos/grupos), agora você encontra
+  os operadores por um campo de **busca**, vê os escolhidos como etiquetas com um contador, e pode
+  **selecionar todos os filtrados** de uma vez — bem mais prático que a lista de marcações anterior,
+  principalmente para equipes grandes.
+
 ## 1.23.0 · julho / 2026
 {: .text-green-200 }
 
